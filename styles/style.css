@@ -46,6 +46,8 @@ img{
 }
 
 img.example1{
+    width:auto;
+   height:auto;
 }
 
 @media screen and (max-width: 600px) {
