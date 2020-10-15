@@ -50,7 +50,6 @@ div.example1 {
 
 @media screen and (max-width: 600px) {
   div.example1 {
-   width:200px;
-   height:280px;
+   width:100%;
   }
 }
