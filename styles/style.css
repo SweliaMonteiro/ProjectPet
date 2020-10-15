@@ -46,6 +46,6 @@ img{
 }
 
 @media screen and (max-width:600px){
-  img.responsive {width: 25px;}
+  img.responsive {width: 40px;}
 }
 
