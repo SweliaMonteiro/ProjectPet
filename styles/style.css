@@ -50,6 +50,6 @@ img{
 }
 
 @media screen and (max-width:600px){
-  div.example {width: auto;
-    height:auto;}
+  iframe.example {width: 400px;
+    height: 500px;}
 }
