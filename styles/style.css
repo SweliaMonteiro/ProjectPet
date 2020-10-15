@@ -49,3 +49,7 @@ img{
   img.responsive {width: 75px; height:65px;}
 }
 
+@media screen and (max-width:600px){
+  div.example {width: auto;
+    height:auto;}
+}
