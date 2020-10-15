@@ -45,9 +45,6 @@ img{
    padding-left: 1.3em;
 }
 
-div.example1 {
-}
-
 @media screen and (max-width: 600px) {
   img.example1 {
    width:80px;
